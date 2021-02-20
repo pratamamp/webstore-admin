@@ -1,0 +1,28 @@
+{
+  "name": "webstore-admin",
+  "version": "1.0.0",
+  "description": "web admin jazaa store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratamamp/webstore-admin.git"
+  },
+  "keywords": [
+    "admin",
+    "web"
+  ],
+  "author": "pratamamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratamamp/webstore-admin/issues"
+  },
+  "homepage": "https://github.com/pratamamp/webstore-admin#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
